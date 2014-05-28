@@ -40,7 +40,7 @@ fileRead                                                          27.1K   36.9K
 ===============================================================================
 ---
  */
-module std.benchmark;
+//module std.benchmark;
 
 import std.algorithm, std.datetime, std.range, std.stdio, std.traits, std.typecons;
 version(unittest) import std.random;
